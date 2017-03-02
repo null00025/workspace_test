@@ -1,7 +1,12 @@
+/**
+ * ‚Í‚ë‚¤‚í‚ ‚é‚Ç‚§B
+ */
 package test001;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello Worldï¼ˆï¼¾Ï‰ï¼¾ï¼‰");
+		System.out.println("Hello World");
+		System.out.println("Hello World‚¾‚æ‚ñ");
 	}
+
 }
