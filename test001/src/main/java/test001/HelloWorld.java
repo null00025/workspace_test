@@ -1,3 +1,6 @@
+/**
+ * Gitのテスト。
+**/
 package test001;
 
 public class HelloWorld {
