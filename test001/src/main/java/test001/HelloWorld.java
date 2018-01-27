@@ -1,5 +1,5 @@
 /**
- * Gitのテスト。
+ * GitのPushテスト。
 **/
 package test001;
 
